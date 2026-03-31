@@ -1,0 +1,4570 @@
+[
+  {
+    "line_id": "地铁1号线八通线",
+    "line_name": "1号线八通线",
+    "line_code": "01",
+    "line_color": "0xC23A30",
+    "stations": [
+      {
+        "station_name": "苹果园",
+        "station_code": "103",
+        "station_id": "150995203",
+        "x": "339",
+        "y": "632",
+        "is_transfer": false
+      },
+      {
+        "station_name": "古城",
+        "station_code": "104",
+        "station_id": "150995204",
+        "x": "380",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "八角游乐园",
+        "station_code": "105",
+        "station_id": "150995205",
+        "x": "420",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "八宝山",
+        "station_code": "106",
+        "station_id": "150995206",
+        "x": "460",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "玉泉路",
+        "station_code": "107",
+        "station_id": "150995207",
+        "x": "500",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "五棵松",
+        "station_code": "108",
+        "station_id": "150995208",
+        "x": "543",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "万寿路",
+        "station_code": "109",
+        "station_id": "150995209",
+        "x": "583",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "公主坟",
+        "station_code": "110",
+        "station_id": "150995210",
+        "x": "624",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "军事博物馆",
+        "station_code": "111",
+        "station_id": "150995211",
+        "x": "671",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "木樨地",
+        "station_code": "112",
+        "station_id": "150995212",
+        "x": "740",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "南礼士路",
+        "station_code": "113",
+        "station_id": "150995213",
+        "x": "777",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "复兴门",
+        "station_code": "114",
+        "station_id": "150995214",
+        "x": "812",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西单",
+        "station_code": "115",
+        "station_id": "150995215",
+        "x": "886",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "天安门西",
+        "station_code": "116",
+        "station_id": "150995216",
+        "x": "952",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "天安门东",
+        "station_code": "117",
+        "station_id": "150995217",
+        "x": "1006",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "王府井",
+        "station_code": "118",
+        "station_id": "150995218",
+        "x": "1029",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东单",
+        "station_code": "119",
+        "station_id": "150995219",
+        "x": "1076",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "建国门",
+        "station_code": "120",
+        "station_id": "150995220",
+        "x": "1148",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "永安里",
+        "station_code": "121",
+        "station_id": "150995221",
+        "x": "1215",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "国贸",
+        "station_code": "122",
+        "station_id": "150995222",
+        "x": "1272",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大望路",
+        "station_code": "123",
+        "station_id": "150995223",
+        "x": "1330",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "四惠",
+        "station_code": "124",
+        "station_id": "150995224",
+        "x": "1360",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "四惠东",
+        "station_code": "125",
+        "station_id": "150995225",
+        "x": "1396",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "高碑店",
+        "station_code": "9703",
+        "station_id": "151019779",
+        "x": "1434",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "传媒大学",
+        "station_code": "9704",
+        "station_id": "151019780",
+        "x": "1468",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "双桥",
+        "station_code": "9705",
+        "station_id": "151019781",
+        "x": "1505",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "管庄",
+        "station_code": "9706",
+        "station_id": "151019782",
+        "x": "1540",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "八里桥",
+        "station_code": "9707",
+        "station_id": "151019783",
+        "x": "1570",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "通州北苑",
+        "station_code": "9708",
+        "station_id": "151019784",
+        "x": "1604",
+        "y": "675",
+        "is_transfer": false
+      },
+      {
+        "station_name": "果园",
+        "station_code": "9709",
+        "station_id": "151019785",
+        "x": "1622",
+        "y": "693",
+        "is_transfer": false
+      },
+      {
+        "station_name": "九棵树",
+        "station_code": "9710",
+        "station_id": "151019786",
+        "x": "1640",
+        "y": "710",
+        "is_transfer": false
+      },
+      {
+        "station_name": "梨园",
+        "station_code": "9711",
+        "station_id": "151019787",
+        "x": "1658",
+        "y": "729",
+        "is_transfer": false
+      },
+      {
+        "station_name": "临河里",
+        "station_code": "9712",
+        "station_id": "151019788",
+        "x": "1677",
+        "y": "748",
+        "is_transfer": false
+      },
+      {
+        "station_name": "土桥",
+        "station_code": "9713",
+        "station_id": "151019789",
+        "x": "1695",
+        "y": "766",
+        "is_transfer": false
+      },
+      {
+        "station_name": "花庄",
+        "station_code": "9715",
+        "station_id": "151019791",
+        "x": "1725",
+        "y": "848",
+        "is_transfer": false
+      },
+      {
+        "station_name": "环球度假区",
+        "station_code": "9716",
+        "station_id": "151019792",
+        "x": "1683",
+        "y": "874",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁2号线",
+    "line_name": "2号线",
+    "line_code": "02",
+    "line_color": "0x006098",
+    "stations": [
+      {
+        "station_name": "西直门",
+        "station_code": "201",
+        "station_id": "150995457",
+        "x": "813",
+        "y": "542",
+        "is_transfer": false
+      },
+      {
+        "station_name": "积水潭",
+        "station_code": "218",
+        "station_id": "150995474",
+        "x": "896",
+        "y": "517",
+        "is_transfer": false
+      },
+      {
+        "station_name": "鼓楼大街",
+        "station_code": "217",
+        "station_id": "150995473",
+        "x": "979",
+        "y": "517",
+        "is_transfer": false
+      },
+      {
+        "station_name": "安定门",
+        "station_code": "216",
+        "station_id": "150995472",
+        "x": "1026",
+        "y": "517",
+        "is_transfer": false
+      },
+      {
+        "station_name": "雍和宫",
+        "station_code": "215",
+        "station_id": "150995471",
+        "x": "1076",
+        "y": "517",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东直门",
+        "station_code": "214",
+        "station_id": "150995470",
+        "x": "1148",
+        "y": "546",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东四十条",
+        "station_code": "213",
+        "station_id": "150995469",
+        "x": "1148",
+        "y": "582",
+        "is_transfer": false
+      },
+      {
+        "station_name": "朝阳门",
+        "station_code": "212",
+        "station_id": "150995468",
+        "x": "1148",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "建国门",
+        "station_code": "211",
+        "station_id": "150995467",
+        "x": "1148",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北京站",
+        "station_code": "210",
+        "station_id": "150995466",
+        "x": "1142",
+        "y": "710",
+        "is_transfer": false
+      },
+      {
+        "station_name": "崇文门",
+        "station_code": "209",
+        "station_id": "150995465",
+        "x": "1076",
+        "y": "717",
+        "is_transfer": false
+      },
+      {
+        "station_name": "前门",
+        "station_code": "208",
+        "station_id": "150995464",
+        "x": "997",
+        "y": "717",
+        "is_transfer": true
+      },
+      {
+        "station_name": "和平门",
+        "station_code": "207",
+        "station_id": "150995463",
+        "x": "920",
+        "y": "717",
+        "is_transfer": false
+      },
+      {
+        "station_name": "宣武门",
+        "station_code": "206",
+        "station_id": "150995462",
+        "x": "886",
+        "y": "717",
+        "is_transfer": false
+      },
+      {
+        "station_name": "长椿街",
+        "station_code": "205",
+        "station_id": "150995461",
+        "x": "826",
+        "y": "717",
+        "is_transfer": false
+      },
+      {
+        "station_name": "复兴门",
+        "station_code": "204",
+        "station_id": "150995460",
+        "x": "812",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "阜成门",
+        "station_code": "203",
+        "station_id": "150995459",
+        "x": "812",
+        "y": "627",
+        "is_transfer": false
+      },
+      {
+        "station_name": "车公庄",
+        "station_code": "202",
+        "station_id": "150995458",
+        "x": "812",
+        "y": "593",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁3号线",
+    "line_name": "3号线",
+    "line_code": "03",
+    "line_color": "0xCE093D",
+    "stations": [
+      {
+        "station_name": "东四十条",
+        "station_code": "321",
+        "station_id": "150995733",
+        "x": "1148",
+        "y": "582",
+        "is_transfer": false
+      },
+      {
+        "station_name": "工人体育场",
+        "station_code": "323",
+        "station_id": "150995735",
+        "x": "1215",
+        "y": "582",
+        "is_transfer": false
+      },
+      {
+        "station_name": "团结湖",
+        "station_code": "325",
+        "station_id": "150995737",
+        "x": "1272",
+        "y": "582",
+        "is_transfer": false
+      },
+      {
+        "station_name": "朝阳公园",
+        "station_code": "327",
+        "station_id": "150995739",
+        "x": "1330",
+        "y": "582",
+        "is_transfer": false
+      },
+      {
+        "station_name": "石佛营",
+        "station_code": "329",
+        "station_id": "150995741",
+        "x": "1360",
+        "y": "582",
+        "is_transfer": false
+      },
+      {
+        "station_name": "朝阳站",
+        "station_code": "331",
+        "station_id": "150995743",
+        "x": "1385",
+        "y": "582",
+        "is_transfer": false
+      },
+      {
+        "station_name": "姚家园",
+        "station_code": "333",
+        "station_id": "150995745",
+        "x": "1400",
+        "y": "555",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东坝南",
+        "station_code": "335",
+        "station_id": "150995747",
+        "x": "1400",
+        "y": "529",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东坝",
+        "station_code": "337",
+        "station_id": "150995749",
+        "x": "1400",
+        "y": "508",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东坝北",
+        "station_code": "339",
+        "station_id": "150995751",
+        "x": "1428",
+        "y": "478",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁4号线大兴线",
+    "line_name": "4号线大兴线",
+    "line_code": "04",
+    "line_color": "0x008E9C",
+    "stations": [
+      {
+        "station_name": "安河桥北",
+        "station_code": "421",
+        "station_id": "150995989",
+        "x": "537",
+        "y": "310",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北宫门",
+        "station_code": "423",
+        "station_id": "150995991",
+        "x": "583",
+        "y": "310",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西苑",
+        "station_code": "425",
+        "station_id": "150995993",
+        "x": "632",
+        "y": "310",
+        "is_transfer": false
+      },
+      {
+        "station_name": "圆明园",
+        "station_code": "427",
+        "station_id": "150995995",
+        "x": "671",
+        "y": "338",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北京大学东门",
+        "station_code": "429",
+        "station_id": "150995997",
+        "x": "671",
+        "y": "371",
+        "is_transfer": false
+      },
+      {
+        "station_name": "中关村",
+        "station_code": "431",
+        "station_id": "150995999",
+        "x": "671",
+        "y": "399",
+        "is_transfer": false
+      },
+      {
+        "station_name": "海淀黄庄",
+        "station_code": "433",
+        "station_id": "150996001",
+        "x": "671",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "人民大学",
+        "station_code": "435",
+        "station_id": "150996003",
+        "x": "671",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "魏公村",
+        "station_code": "437",
+        "station_id": "150996005",
+        "x": "671",
+        "y": "500",
+        "is_transfer": false
+      },
+      {
+        "station_name": "国家图书馆",
+        "station_code": "439",
+        "station_id": "150996007",
+        "x": "671",
+        "y": "527",
+        "is_transfer": false
+      },
+      {
+        "station_name": "动物园",
+        "station_code": "441",
+        "station_id": "150996009",
+        "x": "754",
+        "y": "542",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西直门",
+        "station_code": "443",
+        "station_id": "150996011",
+        "x": "813",
+        "y": "542",
+        "is_transfer": false
+      },
+      {
+        "station_name": "新街口",
+        "station_code": "445",
+        "station_id": "150996013",
+        "x": "871",
+        "y": "542",
+        "is_transfer": false
+      },
+      {
+        "station_name": "平安里",
+        "station_code": "447",
+        "station_id": "150996015",
+        "x": "886",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西四",
+        "station_code": "449",
+        "station_id": "150996017",
+        "x": "886",
+        "y": "619",
+        "is_transfer": false
+      },
+      {
+        "station_name": "灵境胡同",
+        "station_code": "451",
+        "station_id": "150996019",
+        "x": "886",
+        "y": "640",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西单",
+        "station_code": "453",
+        "station_id": "150996021",
+        "x": "886",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "宣武门",
+        "station_code": "455",
+        "station_id": "150996023",
+        "x": "886",
+        "y": "717",
+        "is_transfer": false
+      },
+      {
+        "station_name": "菜市口",
+        "station_code": "457",
+        "station_id": "150996025",
+        "x": "886",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "陶然亭",
+        "station_code": "459",
+        "station_id": "150996027",
+        "x": "886",
+        "y": "780",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北京南站",
+        "station_code": "461",
+        "station_id": "150996029",
+        "x": "886",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "马家堡",
+        "station_code": "463",
+        "station_id": "150996031",
+        "x": "886",
+        "y": "842",
+        "is_transfer": false
+      },
+      {
+        "station_name": "角门西",
+        "station_code": "465",
+        "station_id": "150996033",
+        "x": "886",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "公益西桥",
+        "station_code": "467",
+        "station_id": "150996035",
+        "x": "886",
+        "y": "904",
+        "is_transfer": false
+      },
+      {
+        "station_name": "新宫",
+        "station_code": "469",
+        "station_id": "151018773",
+        "x": "886",
+        "y": "928",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西红门",
+        "station_code": "471",
+        "station_id": "151018775",
+        "x": "774",
+        "y": "977",
+        "is_transfer": false
+      },
+      {
+        "station_name": "高米店北",
+        "station_code": "473",
+        "station_id": "151018777",
+        "x": "774",
+        "y": "1020",
+        "is_transfer": false
+      },
+      {
+        "station_name": "高米店南",
+        "station_code": "475",
+        "station_id": "151018779",
+        "x": "774",
+        "y": "1043",
+        "is_transfer": false
+      },
+      {
+        "station_name": "枣园",
+        "station_code": "477",
+        "station_id": "151018781",
+        "x": "774",
+        "y": "1067",
+        "is_transfer": false
+      },
+      {
+        "station_name": "清源路",
+        "station_code": "479",
+        "station_id": "151018783",
+        "x": "774",
+        "y": "1090",
+        "is_transfer": false
+      },
+      {
+        "station_name": "黄村西大街",
+        "station_code": "481",
+        "station_id": "151018785",
+        "x": "774",
+        "y": "1113",
+        "is_transfer": false
+      },
+      {
+        "station_name": "黄村火车站",
+        "station_code": "483",
+        "station_id": "151018787",
+        "x": "774",
+        "y": "1136",
+        "is_transfer": false
+      },
+      {
+        "station_name": "义和庄",
+        "station_code": "485",
+        "station_id": "151018789",
+        "x": "774",
+        "y": "1159",
+        "is_transfer": false
+      },
+      {
+        "station_name": "生物医药基地",
+        "station_code": "487",
+        "station_id": "151018791",
+        "x": "774",
+        "y": "1182",
+        "is_transfer": false
+      },
+      {
+        "station_name": "天宫院",
+        "station_code": "489",
+        "station_id": "151018793",
+        "x": "774",
+        "y": "1206",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁5号线",
+    "line_name": "5号线",
+    "line_code": "05",
+    "line_color": "0xA6217F",
+    "stations": [
+      {
+        "station_name": "天通苑北",
+        "station_code": "521",
+        "station_id": "150996245",
+        "x": "1076",
+        "y": "193",
+        "is_transfer": false
+      },
+      {
+        "station_name": "天通苑",
+        "station_code": "523",
+        "station_id": "150996247",
+        "x": "1076",
+        "y": "224",
+        "is_transfer": false
+      },
+      {
+        "station_name": "天通苑南",
+        "station_code": "525",
+        "station_id": "150996249",
+        "x": "1076",
+        "y": "245",
+        "is_transfer": false
+      },
+      {
+        "station_name": "立水桥",
+        "station_code": "527",
+        "station_id": "150996251",
+        "x": "1076",
+        "y": "267",
+        "is_transfer": false
+      },
+      {
+        "station_name": "立水桥南",
+        "station_code": "529",
+        "station_id": "150996253",
+        "x": "1076",
+        "y": "304",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北苑路北",
+        "station_code": "531",
+        "station_id": "150996255",
+        "x": "1076",
+        "y": "334",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大屯路东",
+        "station_code": "533",
+        "station_id": "150996257",
+        "x": "1076",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "惠新西街北口",
+        "station_code": "535",
+        "station_id": "150996259",
+        "x": "1076",
+        "y": "404",
+        "is_transfer": false
+      },
+      {
+        "station_name": "惠新西街南口",
+        "station_code": "537",
+        "station_id": "150996261",
+        "x": "1076",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "和平西桥",
+        "station_code": "539",
+        "station_id": "150996263",
+        "x": "1076",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "和平里北街",
+        "station_code": "541",
+        "station_id": "150996265",
+        "x": "1076",
+        "y": "495",
+        "is_transfer": false
+      },
+      {
+        "station_name": "雍和宫",
+        "station_code": "543",
+        "station_id": "150996267",
+        "x": "1076",
+        "y": "517",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北新桥",
+        "station_code": "545",
+        "station_id": "150996269",
+        "x": "1076",
+        "y": "547",
+        "is_transfer": false
+      },
+      {
+        "station_name": "张自忠路",
+        "station_code": "547",
+        "station_id": "150996271",
+        "x": "1076",
+        "y": "582",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东四",
+        "station_code": "549",
+        "station_id": "150996273",
+        "x": "1076",
+        "y": "619",
+        "is_transfer": false
+      },
+      {
+        "station_name": "灯市口",
+        "station_code": "551",
+        "station_id": "150996275",
+        "x": "1076",
+        "y": "642",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东单",
+        "station_code": "553",
+        "station_id": "150996277",
+        "x": "1076",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "崇文门",
+        "station_code": "555",
+        "station_id": "150996279",
+        "x": "1076",
+        "y": "717",
+        "is_transfer": false
+      },
+      {
+        "station_name": "磁器口",
+        "station_code": "557",
+        "station_id": "150996281",
+        "x": "1076",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "天坛东门",
+        "station_code": "559",
+        "station_id": "150996283",
+        "x": "1076",
+        "y": "780",
+        "is_transfer": false
+      },
+      {
+        "station_name": "蒲黄榆",
+        "station_code": "561",
+        "station_id": "150996285",
+        "x": "1076",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "刘家窑",
+        "station_code": "563",
+        "station_id": "150996287",
+        "x": "1076",
+        "y": "838",
+        "is_transfer": false
+      },
+      {
+        "station_name": "宋家庄",
+        "station_code": "565",
+        "station_id": "150996289",
+        "x": "1076",
+        "y": "880",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁6号线",
+    "line_name": "6号线",
+    "line_code": "06",
+    "line_color": "0xD29700",
+    "stations": [
+      {
+        "station_name": "金安桥",
+        "station_code": "609",
+        "station_id": "150996489",
+        "x": "291",
+        "y": "623",
+        "is_transfer": false
+      },
+      {
+        "station_name": "苹果园",
+        "station_code": "611",
+        "station_id": "150996491",
+        "x": "339",
+        "y": "623",
+        "is_transfer": false
+      },
+      {
+        "station_name": "杨庄",
+        "station_code": "613",
+        "station_id": "150996493",
+        "x": "369",
+        "y": "610",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西黄村",
+        "station_code": "615",
+        "station_id": "150996495",
+        "x": "402",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "廖公庄",
+        "station_code": "617",
+        "station_id": "150996497",
+        "x": "449",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "田村",
+        "station_code": "619",
+        "station_id": "150996499",
+        "x": "496",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "海淀五路居",
+        "station_code": "621",
+        "station_id": "150996501",
+        "x": "542",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "慈寿寺",
+        "station_code": "623",
+        "station_id": "150996503",
+        "x": "582",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "花园桥",
+        "station_code": "625",
+        "station_id": "150996505",
+        "x": "627",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "白石桥南",
+        "station_code": "627",
+        "station_id": "150996507",
+        "x": "671",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "二里沟",
+        "station_code": "629",
+        "station_id": "150996509",
+        "x": "740",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "车公庄西",
+        "station_code": "631",
+        "station_id": "150996511",
+        "x": "777",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "车公庄",
+        "station_code": "633",
+        "station_id": "150996513",
+        "x": "812",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "平安里",
+        "station_code": "635",
+        "station_id": "150996515",
+        "x": "886",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北海北",
+        "station_code": "637",
+        "station_id": "150996517",
+        "x": "940",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "南锣鼓巷",
+        "station_code": "639",
+        "station_id": "150996519",
+        "x": "1000",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东四",
+        "station_code": "641",
+        "station_id": "150996521",
+        "x": "1076",
+        "y": "619",
+        "is_transfer": false
+      },
+      {
+        "station_name": "朝阳门",
+        "station_code": "643",
+        "station_id": "150996523",
+        "x": "1148",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东大桥",
+        "station_code": "645",
+        "station_id": "150996525",
+        "x": "1215",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "呼家楼",
+        "station_code": "647",
+        "station_id": "150996527",
+        "x": "1272",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "金台路",
+        "station_code": "649",
+        "station_id": "150996529",
+        "x": "1330",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "十里堡",
+        "station_code": "651",
+        "station_id": "150996531",
+        "x": "1362",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "青年路",
+        "station_code": "653",
+        "station_id": "150996533",
+        "x": "1400",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "褡裢坡",
+        "station_code": "655",
+        "station_id": "150996535",
+        "x": "1483",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "黄渠",
+        "station_code": "657",
+        "station_id": "150996537",
+        "x": "1512",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "常营",
+        "station_code": "659",
+        "station_id": "150996539",
+        "x": "1540",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "草房",
+        "station_code": "661",
+        "station_id": "150996541",
+        "x": "1577",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "物资学院路",
+        "station_code": "663",
+        "station_id": "150996543",
+        "x": "1610",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "通州北关",
+        "station_code": "665",
+        "station_id": "150996545",
+        "x": "1652",
+        "y": "628",
+        "is_transfer": false
+      },
+      {
+        "station_name": "通运门",
+        "station_code": "667",
+        "station_id": "150996547",
+        "x": "1680",
+        "y": "655",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北运河西",
+        "station_code": "669",
+        "station_id": "150996549",
+        "x": "1715",
+        "y": "684",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北运河东",
+        "station_code": "671",
+        "station_id": "150996551",
+        "x": "1745",
+        "y": "684",
+        "is_transfer": false
+      },
+      {
+        "station_name": "郝家府",
+        "station_code": "673",
+        "station_id": "150996553",
+        "x": "1775",
+        "y": "684",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东夏园",
+        "station_code": "675",
+        "station_id": "150996555",
+        "x": "1805",
+        "y": "684",
+        "is_transfer": false
+      },
+      {
+        "station_name": "潞城",
+        "station_code": "677",
+        "station_id": "150996557",
+        "x": "1832",
+        "y": "684",
+        "is_transfer": false
+      },
+      {
+        "station_name": "潞阳",
+        "station_code": "679",
+        "station_id": "150996559",
+        "x": "1862",
+        "y": "714",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁7号线",
+    "line_name": "7号线",
+    "line_code": "07",
+    "line_color": "0xf6c582",
+    "stations": [
+      {
+        "station_name": "北京西站",
+        "station_code": "721",
+        "station_id": "150996757",
+        "x": "671",
+        "y": "723",
+        "is_transfer": false
+      },
+      {
+        "station_name": "湾子",
+        "station_code": "723",
+        "station_id": "150996759",
+        "x": "715",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "达官营",
+        "station_code": "725",
+        "station_id": "150996761",
+        "x": "740",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "广安门内",
+        "station_code": "727",
+        "station_id": "150996763",
+        "x": "812",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "菜市口",
+        "station_code": "729",
+        "station_id": "150996765",
+        "x": "886",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "虎坊桥",
+        "station_code": "731",
+        "station_id": "150996767",
+        "x": "935",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "珠市口",
+        "station_code": "733",
+        "station_id": "150996769",
+        "x": "979",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "桥湾",
+        "station_code": "735",
+        "station_id": "150996771",
+        "x": "1028",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "磁器口",
+        "station_code": "737",
+        "station_id": "150996773",
+        "x": "1076",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "广渠门内",
+        "station_code": "739",
+        "station_id": "150996775",
+        "x": "1133",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "广渠门外",
+        "station_code": "741",
+        "station_id": "150996777",
+        "x": "1186",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "双井",
+        "station_code": "743",
+        "station_id": "150996779",
+        "x": "1272",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "九龙山",
+        "station_code": "745",
+        "station_id": "150996781",
+        "x": "1330",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大郊亭",
+        "station_code": "747",
+        "station_id": "150996783",
+        "x": "1365",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "百子湾",
+        "station_code": "749",
+        "station_id": "150996785",
+        "x": "1396",
+        "y": "756",
+        "is_transfer": false
+      },
+      {
+        "station_name": "化工",
+        "station_code": "751",
+        "station_id": "150996787",
+        "x": "1409",
+        "y": "772",
+        "is_transfer": false
+      },
+      {
+        "station_name": "南楼梓庄",
+        "station_code": "753",
+        "station_id": "150996789",
+        "x": "1409",
+        "y": "791",
+        "is_transfer": false
+      },
+      {
+        "station_name": "欢乐谷景区",
+        "station_code": "755",
+        "station_id": "150996791",
+        "x": "1409",
+        "y": "810",
+        "is_transfer": false
+      },
+      {
+        "station_name": "垡头",
+        "station_code": "757",
+        "station_id": "150996793",
+        "x": "1423",
+        "y": "826",
+        "is_transfer": false
+      },
+      {
+        "station_name": "双合",
+        "station_code": "759",
+        "station_id": "150996795",
+        "x": "1457",
+        "y": "826",
+        "is_transfer": false
+      },
+      {
+        "station_name": "焦化厂",
+        "station_code": "761",
+        "station_id": "150996797",
+        "x": "1491",
+        "y": "826",
+        "is_transfer": false
+      },
+      {
+        "station_name": "黄厂",
+        "station_code": "763",
+        "station_id": "150996799",
+        "x": "1521",
+        "y": "826",
+        "is_transfer": false
+      },
+      {
+        "station_name": "郎辛庄",
+        "station_code": "765",
+        "station_id": "150996801",
+        "x": "1549",
+        "y": "826",
+        "is_transfer": false
+      },
+      {
+        "station_name": "黑庄户",
+        "station_code": "767",
+        "station_id": "150996803",
+        "x": "1579",
+        "y": "826",
+        "is_transfer": false
+      },
+      {
+        "station_name": "万盛西",
+        "station_code": "769",
+        "station_id": "150996805",
+        "x": "1608",
+        "y": "826",
+        "is_transfer": false
+      },
+      {
+        "station_name": "万盛东",
+        "station_code": "771",
+        "station_id": "150996807",
+        "x": "1637",
+        "y": "826",
+        "is_transfer": false
+      },
+      {
+        "station_name": "群芳",
+        "station_code": "773",
+        "station_id": "150996809",
+        "x": "1666",
+        "y": "826",
+        "is_transfer": false
+      },
+      {
+        "station_name": "高楼金",
+        "station_code": "775",
+        "station_id": "150996811",
+        "x": "1695",
+        "y": "826",
+        "is_transfer": false
+      },
+      {
+        "station_name": "花庄",
+        "station_code": "777",
+        "station_id": "150996813",
+        "x": "1716",
+        "y": "848",
+        "is_transfer": false
+      },
+      {
+        "station_name": "环球度假区",
+        "station_code": "779",
+        "station_id": "150996815",
+        "x": "1683",
+        "y": "865",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁8号线",
+    "line_name": "8号线",
+    "line_code": "08",
+    "line_color": "0x009B6B",
+    "stations": [
+      {
+        "station_name": "朱辛庄",
+        "station_code": "805",
+        "station_id": "150996997",
+        "x": "781",
+        "y": "188",
+        "is_transfer": false
+      },
+      {
+        "station_name": "育知路",
+        "station_code": "807",
+        "station_id": "150996999",
+        "x": "858",
+        "y": "188",
+        "is_transfer": false
+      },
+      {
+        "station_name": "平西府",
+        "station_code": "809",
+        "station_id": "150997001",
+        "x": "913",
+        "y": "188",
+        "is_transfer": false
+      },
+      {
+        "station_name": "回龙观东大街",
+        "station_code": "811",
+        "station_id": "150997003",
+        "x": "948",
+        "y": "224",
+        "is_transfer": false
+      },
+      {
+        "station_name": "霍营",
+        "station_code": "813",
+        "station_id": "150997005",
+        "x": "948",
+        "y": "267",
+        "is_transfer": false
+      },
+      {
+        "station_name": "育新",
+        "station_code": "815",
+        "station_id": "150997007",
+        "x": "948",
+        "y": "288",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西小口",
+        "station_code": "817",
+        "station_id": "150997009",
+        "x": "948",
+        "y": "304",
+        "is_transfer": false
+      },
+      {
+        "station_name": "永泰庄",
+        "station_code": "819",
+        "station_id": "150997011",
+        "x": "948",
+        "y": "319",
+        "is_transfer": false
+      },
+      {
+        "station_name": "林萃桥",
+        "station_code": "821",
+        "station_id": "150997013",
+        "x": "961",
+        "y": "337",
+        "is_transfer": false
+      },
+      {
+        "station_name": "森林公园南门",
+        "station_code": "823",
+        "station_id": "150997015",
+        "x": "974",
+        "y": "351",
+        "is_transfer": false
+      },
+      {
+        "station_name": "奥林匹克公园",
+        "station_code": "825",
+        "station_id": "150997017",
+        "x": "979",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "奥体中心",
+        "station_code": "827",
+        "station_id": "150997019",
+        "x": "979",
+        "y": "403",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北土城",
+        "station_code": "829",
+        "station_id": "150997021",
+        "x": "979",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "安华桥",
+        "station_code": "831",
+        "station_id": "150997023",
+        "x": "979",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "安德里北街",
+        "station_code": "833",
+        "station_id": "150997025",
+        "x": "979",
+        "y": "497",
+        "is_transfer": false
+      },
+      {
+        "station_name": "鼓楼大街",
+        "station_code": "835",
+        "station_id": "150997027",
+        "x": "979",
+        "y": "517",
+        "is_transfer": false
+      },
+      {
+        "station_name": "什刹海",
+        "station_code": "837",
+        "station_id": "150997029",
+        "x": "979",
+        "y": "554",
+        "is_transfer": false
+      },
+      {
+        "station_name": "南锣鼓巷",
+        "station_code": "839",
+        "station_id": "150997031",
+        "x": "1000",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "中国美术馆",
+        "station_code": "841",
+        "station_id": "150997033",
+        "x": "1020",
+        "y": "613",
+        "is_transfer": false
+      },
+      {
+        "station_name": "金鱼胡同",
+        "station_code": "843",
+        "station_id": "150997035",
+        "x": "1029",
+        "y": "642",
+        "is_transfer": false
+      },
+      {
+        "station_name": "王府井",
+        "station_code": "845",
+        "station_id": "150997037",
+        "x": "1029",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "前门",
+        "station_code": "847",
+        "station_id": "150997039",
+        "x": "997",
+        "y": "717",
+        "is_transfer": true
+      },
+      {
+        "station_name": "珠市口",
+        "station_code": "849",
+        "station_id": "150997041",
+        "x": "979",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "天桥",
+        "station_code": "851",
+        "station_id": "150997043",
+        "x": "979",
+        "y": "780",
+        "is_transfer": false
+      },
+      {
+        "station_name": "永定门外",
+        "station_code": "853",
+        "station_id": "150997045",
+        "x": "979",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "木樨园",
+        "station_code": "855",
+        "station_id": "150997047",
+        "x": "979",
+        "y": "837",
+        "is_transfer": false
+      },
+      {
+        "station_name": "海户屯",
+        "station_code": "857",
+        "station_id": "150997049",
+        "x": "979",
+        "y": "858",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大红门",
+        "station_code": "859",
+        "station_id": "150997051",
+        "x": "979",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大红门南",
+        "station_code": "861",
+        "station_id": "150997053",
+        "x": "979",
+        "y": "910",
+        "is_transfer": false
+      },
+      {
+        "station_name": "和义",
+        "station_code": "863",
+        "station_id": "150997055",
+        "x": "979",
+        "y": "948",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东高地",
+        "station_code": "865",
+        "station_id": "150997057",
+        "x": "990",
+        "y": "986",
+        "is_transfer": false
+      },
+      {
+        "station_name": "火箭万源",
+        "station_code": "867",
+        "station_id": "150997059",
+        "x": "1013",
+        "y": "1010",
+        "is_transfer": false
+      },
+      {
+        "station_name": "五福堂",
+        "station_code": "869",
+        "station_id": "150997061",
+        "x": "1037",
+        "y": "1034",
+        "is_transfer": false
+      },
+      {
+        "station_name": "德茂",
+        "station_code": "871",
+        "station_id": "150997063",
+        "x": "1061",
+        "y": "1057",
+        "is_transfer": false
+      },
+      {
+        "station_name": "瀛海",
+        "station_code": "873",
+        "station_id": "150997065",
+        "x": "1085",
+        "y": "1081",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁9号线",
+    "line_name": "9号线",
+    "line_code": "09",
+    "line_color": "0x8FC31F",
+    "stations": [
+      {
+        "station_name": "国家图书馆",
+        "station_code": "921",
+        "station_id": "150997269",
+        "x": "671",
+        "y": "527",
+        "is_transfer": false
+      },
+      {
+        "station_name": "白石桥南",
+        "station_code": "923",
+        "station_id": "150997271",
+        "x": "671",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "白堆子",
+        "station_code": "925",
+        "station_id": "150997273",
+        "x": "671",
+        "y": "630",
+        "is_transfer": false
+      },
+      {
+        "station_name": "军事博物馆",
+        "station_code": "927",
+        "station_id": "150997275",
+        "x": "671",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北京西站",
+        "station_code": "929",
+        "station_id": "150997277",
+        "x": "671",
+        "y": "723",
+        "is_transfer": false
+      },
+      {
+        "station_name": "六里桥东",
+        "station_code": "931",
+        "station_id": "150997279",
+        "x": "643",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "六里桥",
+        "station_code": "933",
+        "station_id": "150997281",
+        "x": "624",
+        "y": "776",
+        "is_transfer": false
+      },
+      {
+        "station_name": "七里庄",
+        "station_code": "935",
+        "station_id": "150997283",
+        "x": "590",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "丰台东大街",
+        "station_code": "937",
+        "station_id": "150997285",
+        "x": "584",
+        "y": "839",
+        "is_transfer": false
+      },
+      {
+        "station_name": "丰台南路",
+        "station_code": "939",
+        "station_id": "150997287",
+        "x": "584",
+        "y": "865",
+        "is_transfer": false
+      },
+      {
+        "station_name": "科怡路",
+        "station_code": "941",
+        "station_id": "150997289",
+        "x": "584",
+        "y": "900",
+        "is_transfer": false
+      },
+      {
+        "station_name": "丰台科技园",
+        "station_code": "943",
+        "station_id": "150997291",
+        "x": "584",
+        "y": "932",
+        "is_transfer": false
+      },
+      {
+        "station_name": "郭公庄",
+        "station_code": "945",
+        "station_id": "150997293",
+        "x": "584",
+        "y": "969",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁10号线",
+    "line_name": "10号线",
+    "line_code": "10",
+    "line_color": "0x009BC0",
+    "stations": [
+      {
+        "station_name": "丰台站",
+        "station_code": "1069",
+        "station_id": "151018031",
+        "x": "624",
+        "y": "865",
+        "is_transfer": false
+      },
+      {
+        "station_name": "泥洼",
+        "station_code": "1071",
+        "station_id": "151018033",
+        "x": "624",
+        "y": "839",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西局",
+        "station_code": "1073",
+        "station_id": "151018035",
+        "x": "624",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "六里桥",
+        "station_code": "1075",
+        "station_id": "151018037",
+        "x": "624",
+        "y": "776",
+        "is_transfer": false
+      },
+      {
+        "station_name": "莲花桥",
+        "station_code": "1079",
+        "station_id": "151018039",
+        "x": "624",
+        "y": "722",
+        "is_transfer": false
+      },
+      {
+        "station_name": "公主坟",
+        "station_code": "1081",
+        "station_id": "151018041",
+        "x": "624",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西钓鱼台",
+        "station_code": "1083",
+        "station_id": "151018043",
+        "x": "598",
+        "y": "630",
+        "is_transfer": false
+      },
+      {
+        "station_name": "慈寿寺",
+        "station_code": "1085",
+        "station_id": "151018045",
+        "x": "582",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "车道沟",
+        "station_code": "1087",
+        "station_id": "151018047",
+        "x": "582",
+        "y": "546",
+        "is_transfer": false
+      },
+      {
+        "station_name": "长春桥",
+        "station_code": "1089",
+        "station_id": "151018049",
+        "x": "582",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "火器营",
+        "station_code": "1091",
+        "station_id": "151018051",
+        "x": "582",
+        "y": "451",
+        "is_transfer": false
+      },
+      {
+        "station_name": "巴沟",
+        "station_code": "1001",
+        "station_id": "150997505",
+        "x": "596",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "苏州街",
+        "station_code": "1003",
+        "station_id": "150997507",
+        "x": "632",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "海淀黄庄",
+        "station_code": "1005",
+        "station_id": "150997509",
+        "x": "671",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "知春里",
+        "station_code": "1007",
+        "station_id": "150997511",
+        "x": "716",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "知春路",
+        "station_code": "1009",
+        "station_id": "150997513",
+        "x": "790",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西土城",
+        "station_code": "1011",
+        "station_id": "150997515",
+        "x": "855",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "牡丹园",
+        "station_code": "1013",
+        "station_id": "150997517",
+        "x": "896",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "健德门",
+        "station_code": "1015",
+        "station_id": "150997519",
+        "x": "938",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北土城",
+        "station_code": "1017",
+        "station_id": "150997521",
+        "x": "979",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "安贞门",
+        "station_code": "1019",
+        "station_id": "150997523",
+        "x": "1026",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "惠新西街南口",
+        "station_code": "1021",
+        "station_id": "150997525",
+        "x": "1076",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "芍药居",
+        "station_code": "1023",
+        "station_id": "150997527",
+        "x": "1167",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "太阳宫",
+        "station_code": "1025",
+        "station_id": "150997529",
+        "x": "1215",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "三元桥",
+        "station_code": "1027",
+        "station_id": "150997531",
+        "x": "1272",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "亮马桥",
+        "station_code": "1029",
+        "station_id": "150997533",
+        "x": "1272",
+        "y": "529",
+        "is_transfer": false
+      },
+      {
+        "station_name": "农业展览馆",
+        "station_code": "1031",
+        "station_id": "150997535",
+        "x": "1272",
+        "y": "555",
+        "is_transfer": false
+      },
+      {
+        "station_name": "团结湖",
+        "station_code": "1033",
+        "station_id": "150997537",
+        "x": "1272",
+        "y": "582",
+        "is_transfer": false
+      },
+      {
+        "station_name": "呼家楼",
+        "station_code": "1035",
+        "station_id": "150997539",
+        "x": "1272",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "金台夕照",
+        "station_code": "1037",
+        "station_id": "150997541",
+        "x": "1272",
+        "y": "641",
+        "is_transfer": false
+      },
+      {
+        "station_name": "国贸",
+        "station_code": "1039",
+        "station_id": "150997543",
+        "x": "1272",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "双井",
+        "station_code": "1041",
+        "station_id": "150997545",
+        "x": "1272",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "劲松",
+        "station_code": "1043",
+        "station_id": "150997547",
+        "x": "1272",
+        "y": "774",
+        "is_transfer": false
+      },
+      {
+        "station_name": "潘家园",
+        "station_code": "1045",
+        "station_id": "151018007",
+        "x": "1272",
+        "y": "791",
+        "is_transfer": false
+      },
+      {
+        "station_name": "十里河",
+        "station_code": "1047",
+        "station_id": "151018009",
+        "x": "1272",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "分钟寺",
+        "station_code": "1049",
+        "station_id": "151018011",
+        "x": "1268",
+        "y": "876",
+        "is_transfer": false
+      },
+      {
+        "station_name": "成寿寺",
+        "station_code": "1051",
+        "station_id": "151018013",
+        "x": "1200",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "宋家庄",
+        "station_code": "1053",
+        "station_id": "151018015",
+        "x": "1076",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "石榴庄",
+        "station_code": "1055",
+        "station_id": "151018017",
+        "x": "1028",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大红门",
+        "station_code": "1057",
+        "station_id": "151018019",
+        "x": "979",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "角门东",
+        "station_code": "1059",
+        "station_id": "151018021",
+        "x": "932",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "角门西",
+        "station_code": "1061",
+        "station_id": "151018023",
+        "x": "886",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "草桥",
+        "station_code": "1063",
+        "station_id": "151018025",
+        "x": "800",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "纪家庙",
+        "station_code": "1065",
+        "station_id": "151018027",
+        "x": "755",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "首经贸",
+        "station_code": "1067",
+        "station_id": "151018029",
+        "x": "672",
+        "y": "880",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁11号线",
+    "line_name": "11号线",
+    "line_code": "11",
+    "line_color": "0xed796b",
+    "stations": [
+      {
+        "station_name": "模式口",
+        "station_code": "1121",
+        "station_id": "150997781",
+        "x": "291",
+        "y": "580",
+        "is_transfer": false
+      },
+      {
+        "station_name": "金安桥",
+        "station_code": "1123",
+        "station_id": "150997783",
+        "x": "291",
+        "y": "623",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北辛安",
+        "station_code": "1125",
+        "station_id": "150997785",
+        "x": "291",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "新首钢",
+        "station_code": "1127",
+        "station_id": "150997787",
+        "x": "291",
+        "y": "692",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁12号线",
+    "line_name": "12号线",
+    "line_code": "12",
+    "line_color": "0xBD6F16",
+    "stations": [
+      {
+        "station_name": "四季青桥",
+        "station_code": "1221",
+        "station_id": "150995203",
+        "x": "520",
+        "y": "526",
+        "is_transfer": false
+      },
+      {
+        "station_name": "蓝靛厂",
+        "station_code": "1223",
+        "station_id": "150998039",
+        "x": "520",
+        "y": "499",
+        "is_transfer": false
+      },
+      {
+        "station_name": "长春桥",
+        "station_code": "1225",
+        "station_id": "150998041",
+        "x": "582",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "苏州桥",
+        "station_code": "1227",
+        "station_id": "150998043",
+        "x": "632",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "人民大学",
+        "station_code": "1229",
+        "station_id": "150998045",
+        "x": "671",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大钟寺",
+        "station_code": "1231",
+        "station_id": "150998047",
+        "x": "790",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "蓟门桥",
+        "station_code": "1233",
+        "station_id": "150998049",
+        "x": "855",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北太平庄",
+        "station_code": "1235",
+        "station_id": "150998051",
+        "x": "896",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "马甸桥",
+        "station_code": "1237",
+        "station_id": "150998053",
+        "x": "938",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "安华桥",
+        "station_code": "1239",
+        "station_id": "150998055",
+        "x": "979",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "安贞桥",
+        "station_code": "1241",
+        "station_id": "150998057",
+        "x": "1026",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "和平西桥",
+        "station_code": "1243",
+        "station_id": "150998059",
+        "x": "1076",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "光熙门",
+        "station_code": "1245",
+        "station_id": "150998061",
+        "x": "1167",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西坝河",
+        "station_code": "1247",
+        "station_id": "150998063",
+        "x": "1215",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "三元桥",
+        "station_code": "1249",
+        "station_id": "150998065",
+        "x": "1272",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "将台西",
+        "station_code": "1251",
+        "station_id": "150998067",
+        "x": "1301",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "高家园",
+        "station_code": "1253",
+        "station_id": "150998069",
+        "x": "1340",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "驼房营",
+        "station_code": "1255",
+        "station_id": "150998071",
+        "x": "1372",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东坝西",
+        "station_code": "1257",
+        "station_id": "150998073",
+        "x": "1400",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东坝北",
+        "station_code": "1259",
+        "station_id": "150998075",
+        "x": "1428",
+        "y": "472",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁13号线",
+    "line_name": "13号线",
+    "line_code": "13",
+    "line_color": "0xF9E700",
+    "stations": [
+      {
+        "station_name": "西直门",
+        "station_code": "1321",
+        "station_id": "150998293",
+        "x": "813",
+        "y": "542",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大钟寺",
+        "station_code": "1323",
+        "station_id": "150998295",
+        "x": "790",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "知春路",
+        "station_code": "1325",
+        "station_id": "150998297",
+        "x": "790",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "五道口",
+        "station_code": "1327",
+        "station_id": "150998299",
+        "x": "790",
+        "y": "395",
+        "is_transfer": false
+      },
+      {
+        "station_name": "上地",
+        "station_code": "1329",
+        "station_id": "150998301",
+        "x": "790",
+        "y": "336",
+        "is_transfer": false
+      },
+      {
+        "station_name": "清河站",
+        "station_code": "1330",
+        "station_id": "150998302",
+        "x": "790",
+        "y": "307",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西二旗",
+        "station_code": "1331",
+        "station_id": "150998303",
+        "x": "790",
+        "y": "284",
+        "is_transfer": false
+      },
+      {
+        "station_name": "龙泽",
+        "station_code": "1333",
+        "station_id": "150998305",
+        "x": "824",
+        "y": "267",
+        "is_transfer": false
+      },
+      {
+        "station_name": "回龙观",
+        "station_code": "1335",
+        "station_id": "150998307",
+        "x": "872",
+        "y": "267",
+        "is_transfer": false
+      },
+      {
+        "station_name": "霍营",
+        "station_code": "1337",
+        "station_id": "150998309",
+        "x": "948",
+        "y": "267",
+        "is_transfer": false
+      },
+      {
+        "station_name": "立水桥",
+        "station_code": "1339",
+        "station_id": "150998311",
+        "x": "1076",
+        "y": "267",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北苑",
+        "station_code": "1341",
+        "station_id": "150998313",
+        "x": "1129",
+        "y": "267",
+        "is_transfer": false
+      },
+      {
+        "station_name": "望京西",
+        "station_code": "1343",
+        "station_id": "150998315",
+        "x": "1167",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "芍药居",
+        "station_code": "1345",
+        "station_id": "150998317",
+        "x": "1167",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "光熙门",
+        "station_code": "1347",
+        "station_id": "150998319",
+        "x": "1167",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "柳芳",
+        "station_code": "1349",
+        "station_id": "150998321",
+        "x": "1167",
+        "y": "508",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东直门",
+        "station_code": "1351",
+        "station_id": "150998323",
+        "x": "1148",
+        "y": "546",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁14号线",
+    "line_name": "14号线",
+    "line_code": "14",
+    "line_color": "0xD5A7A1",
+    "stations": [
+      {
+        "station_name": "善各庄",
+        "station_code": "1493",
+        "station_id": "150998621",
+        "x": "1283",
+        "y": "285",
+        "is_transfer": false
+      },
+      {
+        "station_name": "来广营",
+        "station_code": "1491",
+        "station_id": "150998619",
+        "x": "1283",
+        "y": "314",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东湖渠",
+        "station_code": "1489",
+        "station_id": "150998617",
+        "x": "1283",
+        "y": "338",
+        "is_transfer": false
+      },
+      {
+        "station_name": "望京",
+        "station_code": "1487",
+        "station_id": "150998615",
+        "x": "1283",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "阜通",
+        "station_code": "1485",
+        "station_id": "150998613",
+        "x": "1288",
+        "y": "402",
+        "is_transfer": false
+      },
+      {
+        "station_name": "望京南",
+        "station_code": "1483",
+        "station_id": "150998611",
+        "x": "1310",
+        "y": "425",
+        "is_transfer": false
+      },
+      {
+        "station_name": "将台",
+        "station_code": "1479",
+        "station_id": "150998607",
+        "x": "1330",
+        "y": "488",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东风北桥",
+        "station_code": "1477",
+        "station_id": "150998605",
+        "x": "1330",
+        "y": "509",
+        "is_transfer": false
+      },
+      {
+        "station_name": "枣营",
+        "station_code": "1475",
+        "station_id": "150998603",
+        "x": "1330",
+        "y": "535",
+        "is_transfer": false
+      },
+      {
+        "station_name": "朝阳公园",
+        "station_code": "1473",
+        "station_id": "150998601",
+        "x": "1330",
+        "y": "582",
+        "is_transfer": false
+      },
+      {
+        "station_name": "金台路",
+        "station_code": "1471",
+        "station_id": "150998599",
+        "x": "1330",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大望路",
+        "station_code": "1467",
+        "station_id": "150998595",
+        "x": "1330",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "九龙山",
+        "station_code": "1465",
+        "station_id": "150998593",
+        "x": "1330",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "平乐园",
+        "station_code": "1463",
+        "station_id": "150998591",
+        "x": "1330",
+        "y": "778",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北工大西门",
+        "station_code": "1461",
+        "station_id": "150998589",
+        "x": "1325",
+        "y": "810",
+        "is_transfer": false
+      },
+      {
+        "station_name": "十里河",
+        "station_code": "1457",
+        "station_id": "150998585",
+        "x": "1272",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "方庄",
+        "station_code": "1455",
+        "station_id": "150998583",
+        "x": "1165 ",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "蒲黄榆",
+        "station_code": "1453",
+        "station_id": "150998581",
+        "x": "1076",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "景泰",
+        "station_code": "1451",
+        "station_id": "150998579",
+        "x": "1028",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "永定门外",
+        "station_code": "1449",
+        "station_id": "150998577",
+        "x": "979",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "陶然桥",
+        "station_code": "1447",
+        "station_id": "150998575",
+        "x": "933",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北京南站",
+        "station_code": "1445",
+        "station_id": "150998573",
+        "x": "886",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "景风门",
+        "station_code": "1443",
+        "station_id": "150998571",
+        "x": "839",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西铁营",
+        "station_code": "1441",
+        "station_id": "150998569",
+        "x": "805",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "菜户营",
+        "station_code": "1439",
+        "station_id": "150998567",
+        "x": "775",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "丽泽商务区",
+        "station_code": "1437",
+        "station_id": "150998565",
+        "x": "740",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东管头",
+        "station_code": "1435",
+        "station_id": "150998563",
+        "x": "688",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西局",
+        "station_code": "1433",
+        "station_id": "150998561",
+        "x": "624",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "七里庄",
+        "station_code": "1431",
+        "station_id": "150998559",
+        "x": "590",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大井",
+        "station_code": "1429",
+        "station_id": "150998557",
+        "x": "530",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "郭庄子",
+        "station_code": "1427",
+        "station_id": "150998555",
+        "x": "483",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大瓦窑",
+        "station_code": "1425",
+        "station_id": "150998553",
+        "x": "437",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "园博园",
+        "station_code": "1423",
+        "station_id": "150998551",
+        "x": "391",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "张郭庄",
+        "station_code": "1421",
+        "station_id": "150998549",
+        "x": "345",
+        "y": "815",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁15号线",
+    "line_name": "15号线",
+    "line_code": "15",
+    "line_color": "0x5B2C68",
+    "stations": [
+      {
+        "station_name": "清华东路西口",
+        "station_code": "1525",
+        "station_id": "150998809",
+        "x": "819",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "六道口",
+        "station_code": "1527",
+        "station_id": "150998811",
+        "x": "855",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北沙滩",
+        "station_code": "1529",
+        "station_id": "150998813",
+        "x": "896",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "奥林匹克公园",
+        "station_code": "1531",
+        "station_id": "150998815",
+        "x": "979",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "安立路",
+        "station_code": "1533",
+        "station_id": "150998817",
+        "x": "1026",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大屯路东",
+        "station_code": "1535",
+        "station_id": "150998819",
+        "x": "1076",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "关庄",
+        "station_code": "1537",
+        "station_id": "150998821",
+        "x": "1122",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "望京西",
+        "station_code": "1539",
+        "station_id": "150998823",
+        "x": "1167",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "望京",
+        "station_code": "1541",
+        "station_id": "150998825",
+        "x": "1283",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "望京东",
+        "station_code": "1543",
+        "station_id": "150998827",
+        "x": "1314",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "崔各庄",
+        "station_code": "1545",
+        "station_id": "150998829",
+        "x": "1364",
+        "y": "331",
+        "is_transfer": false
+      },
+      {
+        "station_name": "马泉营",
+        "station_code": "1547",
+        "station_id": "150998831",
+        "x": "1364",
+        "y": "305",
+        "is_transfer": false
+      },
+      {
+        "station_name": "孙河",
+        "station_code": "1549",
+        "station_id": "150998833",
+        "x": "1364",
+        "y": "280",
+        "is_transfer": false
+      },
+      {
+        "station_name": "国展",
+        "station_code": "1551",
+        "station_id": "150998835",
+        "x": "1364",
+        "y": "255",
+        "is_transfer": false
+      },
+      {
+        "station_name": "花梨坎",
+        "station_code": "1553",
+        "station_id": "150998837",
+        "x": "1364",
+        "y": "230",
+        "is_transfer": false
+      },
+      {
+        "station_name": "后沙峪",
+        "station_code": "1555",
+        "station_id": "150998839",
+        "x": "1364",
+        "y": "204",
+        "is_transfer": false
+      },
+      {
+        "station_name": "南法信",
+        "station_code": "1557",
+        "station_id": "150998841",
+        "x": "1415",
+        "y": "178",
+        "is_transfer": false
+      },
+      {
+        "station_name": "石门",
+        "station_code": "1559",
+        "station_id": "150998843",
+        "x": "1481",
+        "y": "178",
+        "is_transfer": false
+      },
+      {
+        "station_name": "顺义",
+        "station_code": "1561",
+        "station_id": "150998845",
+        "x": "1546",
+        "y": "178",
+        "is_transfer": false
+      },
+      {
+        "station_name": "俸伯",
+        "station_code": "1563",
+        "station_id": "150998847",
+        "x": "1612",
+        "y": "178",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁16号线",
+    "line_name": "16号线",
+    "line_code": "16",
+    "line_color": "0x76A32E",
+    "stations": [
+      {
+        "station_name": "宛平城",
+        "station_code": "1679",
+        "station_id": "150999119",
+        "x": "405",
+        "y": "865",
+        "is_transfer": false
+      },
+      {
+        "station_name": "洪泰庄",
+        "station_code": "1677",
+        "station_id": "150999117",
+        "x": "433",
+        "y": "865",
+        "is_transfer": false
+      },
+      {
+        "station_name": "榆树庄",
+        "station_code": "1675",
+        "station_id": "150999115",
+        "x": "461",
+        "y": "865",
+        "is_transfer": false
+      },
+      {
+        "station_name": "看丹",
+        "station_code": "1673",
+        "station_id": "150999113",
+        "x": "488",
+        "y": "865",
+        "is_transfer": false
+      },
+      {
+        "station_name": "富丰桥",
+        "station_code": "1671",
+        "station_id": "150999111",
+        "x": "516",
+        "y": "865",
+        "is_transfer": false
+      },
+      {
+        "station_name": "丰台南路",
+        "station_code": "1669",
+        "station_id": "150999109",
+        "x": "584",
+        "y": "865",
+        "is_transfer": false
+      },
+      {
+        "station_name": "丰台站",
+        "station_code": "1667",
+        "station_id": "150999107",
+        "x": "624",
+        "y": "865",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东管头南",
+        "station_code": "1665",
+        "station_id": "150999105",
+        "x": "688",
+        "y": "865",
+        "is_transfer": false
+      },
+      {
+        "station_name": "丽泽商务区",
+        "station_code": "1663",
+        "station_id": "150999103",
+        "x": "740",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "红莲南路",
+        "station_code": "1661",
+        "station_id": "150999101",
+        "x": "740",
+        "y": "780",
+        "is_transfer": false
+      },
+      {
+        "station_name": "达官营",
+        "station_code": "1659",
+        "station_id": "150999099",
+        "x": "740",
+        "y": "754",
+        "is_transfer": false
+      },
+      {
+        "station_name": "木樨地",
+        "station_code": "1657",
+        "station_id": "150999097",
+        "x": "740",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "玉渊潭东门",
+        "station_code": "1655",
+        "station_id": "150999095",
+        "x": "740",
+        "y": "640",
+        "is_transfer": false
+      },
+      {
+        "station_name": "甘家口",
+        "station_code": "1653",
+        "station_id": "150999093",
+        "x": "740",
+        "y": "619",
+        "is_transfer": false
+      },
+      {
+        "station_name": "二里沟",
+        "station_code": "1651",
+        "station_id": "150999091",
+        "x": "740",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "国家图书馆",
+        "station_code": "1649",
+        "station_id": "150999089",
+        "x": "671",
+        "y": "527",
+        "is_transfer": false
+      },
+      {
+        "station_name": "万寿寺",
+        "station_code": "1647",
+        "station_id": "150999087",
+        "x": "632",
+        "y": "500",
+        "is_transfer": false
+      },
+      {
+        "station_name": "苏州桥",
+        "station_code": "1645",
+        "station_id": "150999085",
+        "x": "632",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "苏州街",
+        "station_code": "1643",
+        "station_id": "150999083",
+        "x": "632",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "万泉河桥",
+        "station_code": "1641",
+        "station_id": "150999081",
+        "x": "632",
+        "y": "377",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西苑",
+        "station_code": "1639",
+        "station_id": "150999079",
+        "x": "632",
+        "y": "310",
+        "is_transfer": false
+      },
+      {
+        "station_name": "农大南路",
+        "station_code": "1637",
+        "station_id": "150999077",
+        "x": "632",
+        "y": "285",
+        "is_transfer": false
+      },
+      {
+        "station_name": "马连洼",
+        "station_code": "1635",
+        "station_id": "150999075",
+        "x": "632",
+        "y": "260",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西北旺",
+        "station_code": "1633",
+        "station_id": "150999073",
+        "x": "632",
+        "y": "226",
+        "is_transfer": false
+      },
+      {
+        "station_name": "永丰南",
+        "station_code": "1631",
+        "station_id": "150999071",
+        "x": "632",
+        "y": "198",
+        "is_transfer": false
+      },
+      {
+        "station_name": "永丰",
+        "station_code": "1629",
+        "station_id": "150999069",
+        "x": "595",
+        "y": "171",
+        "is_transfer": false
+      },
+      {
+        "station_name": "屯佃",
+        "station_code": "1627",
+        "station_id": "150999067",
+        "x": "552",
+        "y": "171",
+        "is_transfer": false
+      },
+      {
+        "station_name": "稻香湖路",
+        "station_code": "1625",
+        "station_id": "150999065",
+        "x": "508",
+        "y": "171",
+        "is_transfer": false
+      },
+      {
+        "station_name": "温阳路",
+        "station_code": "1623",
+        "station_id": "150999063",
+        "x": "465",
+        "y": "171",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北安河",
+        "station_code": "1621",
+        "station_id": "150999061",
+        "x": "421",
+        "y": "171",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁17号线",
+    "line_name": "17号线",
+    "line_code": "17",
+    "line_color": "0x00a9a9",
+    "stations": [
+      {
+        "station_name": "未来科学城北",
+        "station_code": "1721",
+        "station_id": "150999317",
+        "x": "1150",
+        "y": "150",
+        "is_transfer": false
+      },
+      {
+        "station_name": "未来科学城",
+        "station_code": "1723",
+        "station_id": "150999319",
+        "x": "1150",
+        "y": "174",
+        "is_transfer": false
+      },
+      {
+        "station_name": "天通苑东",
+        "station_code": "1725",
+        "station_id": "150999321",
+        "x": "1150",
+        "y": "224",
+        "is_transfer": false
+      },
+      {
+        "station_name": "清河营",
+        "station_code": "1727",
+        "station_id": "150999323",
+        "x": "1150",
+        "y": "245",
+        "is_transfer": false
+      },
+      {
+        "station_name": "红军营",
+        "station_code": "1729",
+        "station_id": "150999325",
+        "x": "1150",
+        "y": "317",
+        "is_transfer": false
+      },
+      {
+        "station_name": "望京西",
+        "station_code": "1731",
+        "station_id": "150999327",
+        "x": "1167",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "太阳宫",
+        "station_code": "1733",
+        "station_id": "150999329",
+        "x": "1215",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西坝河",
+        "station_code": "1735",
+        "station_id": "150999331",
+        "x": "1215",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "左家庄",
+        "station_code": "1737",
+        "station_id": "150999333",
+        "x": "1215",
+        "y": "538",
+        "is_transfer": false
+      },
+      {
+        "station_name": "工人体育场",
+        "station_code": "1739",
+        "station_id": "150999335",
+        "x": "1215",
+        "y": "582",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东大桥",
+        "station_code": "1741",
+        "station_id": "150999337",
+        "x": "1215",
+        "y": "620",
+        "is_transfer": false
+      },
+      {
+        "station_name": "永安里",
+        "station_code": "1743",
+        "station_id": "150999339",
+        "x": "1215",
+        "y": "666",
+        "is_transfer": false
+      },
+      {
+        "station_name": "潘家园西",
+        "station_code": "1747",
+        "station_id": "150999343",
+        "x": "1242",
+        "y": "785",
+        "is_transfer": false
+      },
+      {
+        "station_name": "十里河",
+        "station_code": "1749",
+        "station_id": "150999345",
+        "x": "1272",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "周家庄",
+        "station_code": "1751",
+        "station_id": "150999347",
+        "x": "1323",
+        "y": "864",
+        "is_transfer": false
+      },
+      {
+        "station_name": "十八里店",
+        "station_code": "1753",
+        "station_id": "150999349",
+        "x": "1370",
+        "y": "911",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北神树",
+        "station_code": "1755",
+        "station_id": "150999351",
+        "x": "1417",
+        "y": "958",
+        "is_transfer": false
+      },
+      {
+        "station_name": "次渠北",
+        "station_code": "1757",
+        "station_id": "150999353",
+        "x": "1464",
+        "y": "1005",
+        "is_transfer": false
+      },
+      {
+        "station_name": "次渠",
+        "station_code": "1759",
+        "station_id": "150999355",
+        "x": "1515",
+        "y": "1055",
+        "is_transfer": false
+      },
+      {
+        "station_name": "嘉会湖",
+        "station_code": "1761",
+        "station_id": "150999357",
+        "x": "1557",
+        "y": "1098",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁18号线",
+    "line_name": "18号线",
+    "line_code": "73",
+    "line_color": "0x665794",
+    "stations": [
+      {
+        "station_name": "马连洼",
+        "station_code": "7321",
+        "station_id": "151013653",
+        "x": "632",
+        "y": "260",
+        "is_transfer": false
+      },
+      {
+        "station_name": "上地软件园",
+        "station_code": "7319",
+        "station_id": "151013651",
+        "x": "690",
+        "y": "260",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东北旺",
+        "station_code": "7317",
+        "station_id": "151013649",
+        "x": "742",
+        "y": "260",
+        "is_transfer": false
+      },
+      {
+        "station_name": "龙泽西",
+        "station_code": "7315",
+        "station_id": "151013647",
+        "x": "810",
+        "y": "239",
+        "is_transfer": false
+      },
+      {
+        "station_name": "回龙观西大街",
+        "station_code": "7313",
+        "station_id": "151013645",
+        "x": "868",
+        "y": "224",
+        "is_transfer": false
+      },
+      {
+        "station_name": "文华路",
+        "station_code": "7311",
+        "station_id": "151013643",
+        "x": "908",
+        "y": "224",
+        "is_transfer": false
+      },
+      {
+        "station_name": "回龙观东大街",
+        "station_code": "7309",
+        "station_id": "151013641",
+        "x": "948",
+        "y": "224",
+        "is_transfer": false
+      },
+      {
+        "station_name": "霍营东",
+        "station_code": "7307",
+        "station_id": "151013639",
+        "x": "1008",
+        "y": "224",
+        "is_transfer": false
+      },
+      {
+        "station_name": "天通苑",
+        "station_code": "7305",
+        "station_id": "151013637",
+        "x": "1076",
+        "y": "224",
+        "is_transfer": false
+      },
+      {
+        "station_name": "太平庄",
+        "station_code": "7303",
+        "station_id": "151013635",
+        "x": "1116",
+        "y": "224",
+        "is_transfer": false
+      },
+      {
+        "station_name": "天通苑东",
+        "station_code": "7301",
+        "station_id": "151013633",
+        "x": "1150",
+        "y": "224",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "地铁19号线",
+    "line_name": "19号线",
+    "line_code": "19",
+    "line_color": "0xd6abc1",
+    "stations": [
+      {
+        "station_name": "牡丹园",
+        "station_code": "1921",
+        "station_id": "150999829",
+        "x": "896",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北太平庄",
+        "station_code": "1923",
+        "station_id": "150999831",
+        "x": "896",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "积水潭",
+        "station_code": "1925",
+        "station_id": "150999833",
+        "x": "896",
+        "y": "517",
+        "is_transfer": false
+      },
+      {
+        "station_name": "平安里",
+        "station_code": "1927",
+        "station_id": "150999835",
+        "x": "886",
+        "y": "593",
+        "is_transfer": false
+      },
+      {
+        "station_name": "太平桥",
+        "station_code": "1929",
+        "station_id": "150999837",
+        "x": "839",
+        "y": "654",
+        "is_transfer": false
+      },
+      {
+        "station_name": "牛街",
+        "station_code": "1931",
+        "station_id": "150999839",
+        "x": "839",
+        "y": "743",
+        "is_transfer": false
+      },
+      {
+        "station_name": "景风门",
+        "station_code": "1933",
+        "station_id": "150999841",
+        "x": "839",
+        "y": "815",
+        "is_transfer": false
+      },
+      {
+        "station_name": "草桥",
+        "station_code": "1935",
+        "station_id": "150999843",
+        "x": "809",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "新发地",
+        "station_code": "1937",
+        "station_id": "150999845",
+        "x": "809",
+        "y": "918",
+        "is_transfer": false
+      },
+      {
+        "station_name": "新宫",
+        "station_code": "1939",
+        "station_id": "150999847",
+        "x": "886",
+        "y": "928",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "S1线",
+    "line_name": "S1线",
+    "line_code": "91",
+    "line_color": "0xB35A20",
+    "stations": [
+      {
+        "station_name": "石厂",
+        "station_code": "9121",
+        "station_id": "151018261",
+        "x": "135",
+        "y": "708",
+        "is_transfer": false
+      },
+      {
+        "station_name": "小园",
+        "station_code": "9123",
+        "station_id": "151018263",
+        "x": "165",
+        "y": "708",
+        "is_transfer": false
+      },
+      {
+        "station_name": "栗园庄",
+        "station_code": "9125",
+        "station_id": "151018265",
+        "x": "192",
+        "y": "685",
+        "is_transfer": false
+      },
+      {
+        "station_name": "上岸",
+        "station_code": "9127",
+        "station_id": "151018267",
+        "x": "192",
+        "y": "662",
+        "is_transfer": false
+      },
+      {
+        "station_name": "桥户营",
+        "station_code": "9129",
+        "station_id": "151018269",
+        "x": "222",
+        "y": "632",
+        "is_transfer": false
+      },
+      {
+        "station_name": "四道桥",
+        "station_code": "9131",
+        "station_id": "151018271",
+        "x": "255",
+        "y": "632",
+        "is_transfer": false
+      },
+      {
+        "station_name": "金安桥",
+        "station_code": "9133",
+        "station_id": "151018273",
+        "x": "291",
+        "y": "632",
+        "is_transfer": false
+      },
+      {
+        "station_name": "苹果园",
+        "station_code": "9135",
+        "station_id": "151018275",
+        "x": "339",
+        "y": "632",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "西郊线",
+    "line_name": "西郊线",
+    "line_code": "89",
+    "line_color": "0xE50619",
+    "stations": [
+      {
+        "station_name": "香山",
+        "station_code": "8921",
+        "station_id": "151017749",
+        "x": "401",
+        "y": "347",
+        "is_transfer": false
+      },
+      {
+        "station_name": "国家植物园",
+        "station_code": "8923",
+        "station_id": "151017751",
+        "x": "445",
+        "y": "347",
+        "is_transfer": false
+      },
+      {
+        "station_name": "万安",
+        "station_code": "8925",
+        "station_id": "151017753",
+        "x": "464",
+        "y": "374",
+        "is_transfer": false
+      },
+      {
+        "station_name": "茶棚",
+        "station_code": "8927",
+        "station_id": "151017755",
+        "x": "496",
+        "y": "394",
+        "is_transfer": false
+      },
+      {
+        "station_name": "颐和园西门",
+        "station_code": "8929",
+        "station_id": "151017757",
+        "x": "545",
+        "y": "394",
+        "is_transfer": false
+      },
+      {
+        "station_name": "巴沟",
+        "station_code": "8931",
+        "station_id": "151017759",
+        "x": "596",
+        "y": "435",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "房山线",
+    "line_name": "房山线",
+    "line_code": "95",
+    "line_color": "0xE46022",
+    "stations": [
+      {
+        "station_name": "东管头南",
+        "station_code": "9513",
+        "station_id": "151019277",
+        "x": "688",
+        "y": "865",
+        "is_transfer": false
+      },
+      {
+        "station_name": "首经贸",
+        "station_code": "9515",
+        "station_id": "151019279",
+        "x": "672",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "花乡东桥",
+        "station_code": "9517",
+        "station_id": "151019281",
+        "x": "640",
+        "y": "912",
+        "is_transfer": false
+      },
+      {
+        "station_name": "白盆窑",
+        "station_code": "9519",
+        "station_id": "151019283",
+        "x": "614",
+        "y": "938",
+        "is_transfer": false
+      },
+      {
+        "station_name": "郭公庄",
+        "station_code": "9521",
+        "station_id": "151019285",
+        "x": "584",
+        "y": "969",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大葆台",
+        "station_code": "9523",
+        "station_id": "151019287",
+        "x": "567",
+        "y": "986",
+        "is_transfer": false
+      },
+      {
+        "station_name": "稻田",
+        "station_code": "9525",
+        "station_id": "151019289",
+        "x": "550",
+        "y": "1002",
+        "is_transfer": false
+      },
+      {
+        "station_name": "长阳",
+        "station_code": "9527",
+        "station_id": "151019291",
+        "x": "533",
+        "y": "1020",
+        "is_transfer": false
+      },
+      {
+        "station_name": "篱笆房",
+        "station_code": "9529",
+        "station_id": "151019293",
+        "x": "516",
+        "y": "1037",
+        "is_transfer": false
+      },
+      {
+        "station_name": "广阳城",
+        "station_code": "9531",
+        "station_id": "151019295",
+        "x": "499",
+        "y": "1053",
+        "is_transfer": false
+      },
+      {
+        "station_name": "良乡大学城北",
+        "station_code": "9533",
+        "station_id": "151019297",
+        "x": "482",
+        "y": "1071",
+        "is_transfer": false
+      },
+      {
+        "station_name": "良乡大学城",
+        "station_code": "9535",
+        "station_id": "151019299",
+        "x": "463",
+        "y": "1089",
+        "is_transfer": false
+      },
+      {
+        "station_name": "良乡大学城西",
+        "station_code": "9537",
+        "station_id": "151019301",
+        "x": "430",
+        "y": "1089",
+        "is_transfer": false
+      },
+      {
+        "station_name": "良乡南关",
+        "station_code": "9539",
+        "station_id": "151019303",
+        "x": "399",
+        "y": "1089",
+        "is_transfer": false
+      },
+      {
+        "station_name": "苏庄",
+        "station_code": "9541",
+        "station_id": "151019305",
+        "x": "367",
+        "y": "1089",
+        "is_transfer": false
+      },
+      {
+        "station_name": "阎村东",
+        "station_code": "9543",
+        "station_id": "151019307",
+        "x": "332",
+        "y": "1089",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "昌平线",
+    "line_name": "昌平线",
+    "line_code": "94",
+    "line_color": "0xDE82B2",
+    "stations": [
+      {
+        "station_name": "蓟门桥",
+        "station_code": "9457",
+        "station_id": "151019065",
+        "x": "855",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西土城",
+        "station_code": "9455",
+        "station_id": "151019063",
+        "x": "855",
+        "y": "435",
+        "is_transfer": false
+      },
+      {
+        "station_name": "学院桥",
+        "station_code": "9453",
+        "station_id": "151019061",
+        "x": "855",
+        "y": "411",
+        "is_transfer": false
+      },
+      {
+        "station_name": "六道口",
+        "station_code": "9451",
+        "station_id": "151019059",
+        "x": "855",
+        "y": "372",
+        "is_transfer": false
+      },
+      {
+        "station_name": "学知园",
+        "station_code": "9449",
+        "station_id": "151019057",
+        "x": "855",
+        "y": "348",
+        "is_transfer": false
+      },
+      {
+        "station_name": "清河小营桥",
+        "station_code": "9447",
+        "station_id": "151019055",
+        "x": "855",
+        "y": "326",
+        "is_transfer": false
+      },
+      {
+        "station_name": "朱房北",
+        "station_code": "9445",
+        "station_id": "151019053",
+        "x": "824",
+        "y": "307",
+        "is_transfer": false
+      },
+      {
+        "station_name": "清河站",
+        "station_code": "9443",
+        "station_id": "151019051",
+        "x": "781",
+        "y": "307",
+        "is_transfer": false
+      },
+      {
+        "station_name": "西二旗",
+        "station_code": "9441",
+        "station_id": "151019049",
+        "x": "781",
+        "y": "284",
+        "is_transfer": false
+      },
+      {
+        "station_name": "生命科学园",
+        "station_code": "9439",
+        "station_id": "151019047",
+        "x": "781",
+        "y": "217",
+        "is_transfer": false
+      },
+      {
+        "station_name": "朱辛庄",
+        "station_code": "9437",
+        "station_id": "151019045",
+        "x": "781",
+        "y": "188",
+        "is_transfer": false
+      },
+      {
+        "station_name": "巩华城",
+        "station_code": "9435",
+        "station_id": "151019043",
+        "x": "781",
+        "y": "156",
+        "is_transfer": false
+      },
+      {
+        "station_name": "沙河",
+        "station_code": "9433",
+        "station_id": "151019041",
+        "x": "781",
+        "y": "130",
+        "is_transfer": false
+      },
+      {
+        "station_name": "沙河高教园",
+        "station_code": "9431",
+        "station_id": "151019039",
+        "x": "781",
+        "y": "104",
+        "is_transfer": false
+      },
+      {
+        "station_name": "南邵",
+        "station_code": "9429",
+        "station_id": "151019037",
+        "x": "781",
+        "y": "70",
+        "is_transfer": false
+      },
+      {
+        "station_name": "北邵洼",
+        "station_code": "9427",
+        "station_id": "151019035",
+        "x": "750",
+        "y": "41",
+        "is_transfer": false
+      },
+      {
+        "station_name": "昌平东关",
+        "station_code": "9425",
+        "station_id": "151019033",
+        "x": "694",
+        "y": "41",
+        "is_transfer": false
+      },
+      {
+        "station_name": "昌平",
+        "station_code": "9423",
+        "station_id": "151019031",
+        "x": "636",
+        "y": "41",
+        "is_transfer": false
+      },
+      {
+        "station_name": "十三陵景区",
+        "station_code": "9421",
+        "station_id": "151019029",
+        "x": "573",
+        "y": "41",
+        "is_transfer": false
+      },
+      {
+        "station_name": "昌平西山口",
+        "station_code": "9419",
+        "station_id": "151019027",
+        "x": "540",
+        "y": "41",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "亦庄线",
+    "line_name": "亦庄线",
+    "line_code": "96",
+    "line_color": "0xE40077",
+    "stations": [
+      {
+        "station_name": "宋家庄",
+        "station_code": "9621",
+        "station_id": "151019541",
+        "x": "1076",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "肖村",
+        "station_code": "9623",
+        "station_id": "151019543",
+        "x": "1076",
+        "y": "916",
+        "is_transfer": false
+      },
+      {
+        "station_name": "小红门",
+        "station_code": "9625",
+        "station_id": "151019545",
+        "x": "1095",
+        "y": "935",
+        "is_transfer": false
+      },
+      {
+        "station_name": "旧宫",
+        "station_code": "9627",
+        "station_id": "151019547",
+        "x": "1110",
+        "y": "949",
+        "is_transfer": false
+      },
+      {
+        "station_name": "亦庄桥",
+        "station_code": "9629",
+        "station_id": "151019549",
+        "x": "1124",
+        "y": "964",
+        "is_transfer": false
+      },
+      {
+        "station_name": "亦庄文化园",
+        "station_code": "9631",
+        "station_id": "151019551",
+        "x": "1139",
+        "y": "979",
+        "is_transfer": false
+      },
+      {
+        "station_name": "万源街",
+        "station_code": "9633",
+        "station_id": "151019553",
+        "x": "1154",
+        "y": "993",
+        "is_transfer": false
+      },
+      {
+        "station_name": "荣京东街",
+        "station_code": "9635",
+        "station_id": "151019555",
+        "x": "1168",
+        "y": "1008",
+        "is_transfer": false
+      },
+      {
+        "station_name": "荣昌东街",
+        "station_code": "9637",
+        "station_id": "151019557",
+        "x": "1185",
+        "y": "1025",
+        "is_transfer": false
+      },
+      {
+        "station_name": "同济南路",
+        "station_code": "9639",
+        "station_id": "151019559",
+        "x": "1256",
+        "y": "1055",
+        "is_transfer": false
+      },
+      {
+        "station_name": "经海路",
+        "station_code": "9641",
+        "station_id": "151019561",
+        "x": "1330",
+        "y": "1055",
+        "is_transfer": false
+      },
+      {
+        "station_name": "次渠南",
+        "station_code": "9643",
+        "station_id": "151019563",
+        "x": "1406",
+        "y": "1055",
+        "is_transfer": false
+      },
+      {
+        "station_name": "次渠",
+        "station_code": "9645",
+        "station_id": "151019565",
+        "x": "1515",
+        "y": "1055",
+        "is_transfer": false
+      },
+      {
+        "station_name": "亦庄火车站",
+        "station_code": "9647",
+        "station_id": "151019567",
+        "x": "1569",
+        "y": "1055",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "燕房线",
+    "line_name": "燕房线",
+    "line_code": "92",
+    "line_color": "0xE46022",
+    "stations": [
+      {
+        "station_name": "燕山",
+        "station_code": "9221",
+        "station_id": "151018517",
+        "x": "91",
+        "y": "1049",
+        "is_transfer": false
+      },
+      {
+        "station_name": "房山城关",
+        "station_code": "9223",
+        "station_id": "151018519",
+        "x": "113",
+        "y": "1068",
+        "is_transfer": false
+      },
+      {
+        "station_name": "饶乐府",
+        "station_code": "9225",
+        "station_id": "151018521",
+        "x": "140",
+        "y": "1089",
+        "is_transfer": false
+      },
+      {
+        "station_name": "马各庄",
+        "station_code": "9227",
+        "station_id": "151018523",
+        "x": "172",
+        "y": "1089",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大石河东",
+        "station_code": "9229",
+        "station_id": "151018525",
+        "x": "203",
+        "y": "1089",
+        "is_transfer": false
+      },
+      {
+        "station_name": "星城",
+        "station_code": "9231",
+        "station_id": "151018527",
+        "x": "235",
+        "y": "1089",
+        "is_transfer": false
+      },
+      {
+        "station_name": "阎村",
+        "station_code": "9233",
+        "station_id": "151018529",
+        "x": "266",
+        "y": "1089",
+        "is_transfer": false
+      },
+      {
+        "station_name": "紫草坞",
+        "station_code": "9235",
+        "station_id": "151018531",
+        "x": "298",
+        "y": "1089",
+        "is_transfer": false
+      },
+      {
+        "station_name": "阎村东",
+        "station_code": "9237",
+        "station_id": "151018533",
+        "x": "332",
+        "y": "1089",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "首都机场线",
+    "line_name": "首都机场线",
+    "line_code": "98",
+    "line_color": "0xA29BBB",
+    "stations": [
+      {
+        "station_name": "北新桥",
+        "station_code": "9819",
+        "station_id": "151020051",
+        "x": "1076",
+        "y": "547",
+        "is_transfer": false
+      },
+      {
+        "station_name": "东直门",
+        "station_code": "9821",
+        "station_id": "151020053",
+        "x": "1148",
+        "y": "546",
+        "is_transfer": false
+      },
+      {
+        "station_name": "三元桥",
+        "station_code": "9823",
+        "station_id": "151020055",
+        "x": "1272",
+        "y": "472",
+        "is_transfer": false
+      },
+      {
+        "station_name": "3号航站楼",
+        "station_code": "9827",
+        "station_id": "151020059",
+        "x": "1545",
+        "y": "276",
+        "is_transfer": false
+      },
+      {
+        "station_name": "2号航站楼",
+        "station_code": "9825",
+        "station_id": "151020057",
+        "x": "1468",
+        "y": "276",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "大兴机场线",
+    "line_name": "大兴机场线",
+    "line_code": "88",
+    "line_color": "0x004A9F",
+    "stations": [
+      {
+        "station_name": "草桥",
+        "station_code": "8823",
+        "station_id": "151017495",
+        "x": "800",
+        "y": "880",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大兴新城",
+        "station_code": "8825",
+        "station_id": "151017497",
+        "x": "901",
+        "y": "1031",
+        "is_transfer": false
+      },
+      {
+        "station_name": "大兴机场",
+        "station_code": "8827",
+        "station_id": "151017499",
+        "x": "979",
+        "y": "1212",
+        "is_transfer": false
+      }
+    ]
+  },
+  {
+    "line_id": "亦庄T1线",
+    "line_name": "亦庄T1线",
+    "line_code": "79",
+    "line_color": "0xe5061b",
+    "stations": [
+      {
+        "station_name": "定海园",
+        "station_code": "7921",
+        "station_id": "151015189",
+        "x": "1269",
+        "y": "941",
+        "is_transfer": false
+      },
+      {
+        "station_name": "定海园西",
+        "station_code": "7923",
+        "station_id": "151015191",
+        "x": "1250",
+        "y": "959",
+        "is_transfer": false
+      },
+      {
+        "station_name": "经海一路",
+        "station_code": "7925",
+        "station_id": "151015193",
+        "x": "1232",
+        "y": "978",
+        "is_transfer": false
+      },
+      {
+        "station_name": "亦创会展中心",
+        "station_code": "7927",
+        "station_id": "151015195",
+        "x": "1204",
+        "y": "1006",
+        "is_transfer": false
+      },
+      {
+        "station_name": "荣昌东街",
+        "station_code": "7929",
+        "station_id": "151015197",
+        "x": "1185",
+        "y": "1025",
+        "is_transfer": false
+      },
+      {
+        "station_name": "亦庄同仁",
+        "station_code": "7931",
+        "station_id": "151015199",
+        "x": "1166",
+        "y": "1050",
+        "is_transfer": false
+      },
+      {
+        "station_name": "鹿圈东",
+        "station_code": "7933",
+        "station_id": "151015201",
+        "x": "1166",
+        "y": "1065",
+        "is_transfer": false
+      },
+      {
+        "station_name": "泰河路",
+        "station_code": "7935",
+        "station_id": "151015203",
+        "x": "1166",
+        "y": "1080",
+        "is_transfer": false
+      },
+      {
+        "station_name": "九号村",
+        "station_code": "7937",
+        "station_id": "151015205",
+        "x": "1166",
+        "y": "1095",
+        "is_transfer": false
+      },
+      {
+        "station_name": "四海庄",
+        "station_code": "7939",
+        "station_id": "151015207",
+        "x": "1166",
+        "y": "1109",
+        "is_transfer": false
+      },
+      {
+        "station_name": "太和桥北",
+        "station_code": "7941",
+        "station_id": "151015209",
+        "x": "1166",
+        "y": "1124",
+        "is_transfer": false
+      },
+      {
+        "station_name": "瑞合庄",
+        "station_code": "7943",
+        "station_id": "151015211",
+        "x": "1166",
+        "y": "1139",
+        "is_transfer": false
+      },
+      {
+        "station_name": "融兴街",
+        "station_code": "7945",
+        "station_id": "151015213",
+        "x": "1166",
+        "y": "1153",
+        "is_transfer": false
+      },
+      {
+        "station_name": "屈庄",
+        "station_code": "7947",
+        "station_id": "151015215",
+        "x": "1166",
+        "y": "1168",
+        "is_transfer": false
+      },
+      {
+        "station_name": "老观里",
+        "station_code": "",
+        "station_id": "",
+        "x": "1166",
+        "y": "1183",
+        "is_transfer": false
+      }
+    ]
+  }
+]
